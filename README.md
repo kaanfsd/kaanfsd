@@ -1,6 +1,6 @@
+<img align="middle" src="https://i.pinimg.com/originals/64/05/31/6405318ac146473a95bfbdcec2b32943.gif">
 <h1 align="center">Hi 👋, I'm Kaan</h1>
 <h3 align="center">A passionate software engineer from Türkiye</h3>
-<img src="https://i.pinimg.com/originals/22/da/c7/22dac70c412e3afdb923eaf4cc6b9d59.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaanfsd&label=Profile%20views&color=0e75b6&style=flat" alt="kaanfsd" /> </p>
 
