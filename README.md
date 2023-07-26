@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Python**
 
-- 💬 Ask me about **QA Engineering**
+- 💬 Ask me about **QA Engineering, Automation and ML**
 
 - 📫 How to reach me **kaanfsd@gmail.com**
 
