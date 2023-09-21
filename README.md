@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaanfsd&label=Profile%20views&color=0e75b6&style=flat" alt="kaanfsd" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Python**
+- 🌱 I’m currently learning **Machine Learning, Python** & **ASP.NET Core MVC**
 
 - 💬 Ask me about **QA Engineering, Automation, Backend Development and  ML**
 
